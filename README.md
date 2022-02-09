@@ -1,0 +1,2 @@
+# Patikanın JavaScript Nesne(Object) Konusunun Sonunda Verdiği 3. Proje Ödevi
+* Proje için html,css dosyaları hazır verildi. JavaScriptin de arrayden oluşan menüsü hazırdı. Geriye kalan kısmı tamamlamamız istendi.
